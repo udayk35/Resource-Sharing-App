@@ -1,0 +1,28 @@
+{
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.8.4",
+    "bcryptjs": "^3.0.2",
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "dockerode": "^4.0.4",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "express-session": "^1.18.1",
+    "express-ws": "^5.0.2",
+    "jsonwebtoken": "^9.0.2",
+    "monaco-editor": "^0.52.2",
+    "mongoose": "^8.11.0",
+    "multer": "^1.4.5-lts.2",
+    "os": "^0.1.2",
+    "react-icons": "^5.5.0",
+    "react-monaco-editor": "^0.58.0",
+    "react-resizable-panels": "^2.1.7",
+    "systeminformation": "^5.25.11",
+    "tar": "^7.4.3",
+    "tar-fs": "^3.0.8",
+    "tar-stream": "^3.1.7",
+    "websocket": "^1.0.35",
+    "ws": "^8.18.1"
+  }
+}
