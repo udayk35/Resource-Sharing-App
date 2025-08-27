@@ -8,9 +8,9 @@ The application has three main components:
 
 User Interface (UI):
 Shows available provider computers that are online.
-Includes an integrated workspace (IDE) with:
-  Terminal
-  File Editor
+Includes an integrated workspace (IDE) with
+  Terminal,
+  File Editor,
   File Explorer
   
 Backend:
